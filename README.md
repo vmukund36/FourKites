@@ -3,6 +3,7 @@
 **Neural network loss surface characterization and its connection to optimization behavior, generalization, and architecture design using efficient PyTorch probing techniques.**
 
 **Author:** Mukund Venkatasubramanian (DA24C010)
+**Documentation** [Document](fourkites-2.pdf)
 
 ---
 
